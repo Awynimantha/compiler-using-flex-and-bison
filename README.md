@@ -3,7 +3,7 @@
 
 ### Team Members 
 	A.W.Y.N.Welagedara - 20002051
-	A.G.K.C Abeynayaka - 20000049 
+	A.G.K.C.Abeynayaka - 20000049 
 	
 	
 ### How to run
