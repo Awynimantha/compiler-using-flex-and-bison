@@ -1,0 +1,10 @@
+main() {
+int x;
+x = 3;
+int y;
+y=2;
+int z;
+z=x*y;
+printvar z;
+
+}
