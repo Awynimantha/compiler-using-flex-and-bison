@@ -1,4 +1,4 @@
-# SCS3211 Compiler Theory
+# Compiler using Flex and Bison
 ## Assignment 1
 
 ### Developer 
