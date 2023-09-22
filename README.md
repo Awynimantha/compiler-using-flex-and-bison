@@ -1,9 +1,9 @@
 # SCS3211 Compiler Theory
 ## Assignment 1
 
-### Team Members 
-	A.W.Y.N.Welagedara - 20002051
-	A.G.K.C.Abeynayaka - 20000049 
+### Developer 
+	A.W.Y.N.Welagedara
+
 	
 	
 ### How to run
