@@ -1,10 +1,4 @@
 # Compiler using Flex and Bison
-## Assignment 1
-
-### Developer 
-	A.W.Y.N.Welagedara
-
-	
 	
 ### How to run
 
