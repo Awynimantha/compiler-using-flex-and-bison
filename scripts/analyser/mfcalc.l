@@ -1,9 +1,8 @@
 
 %{
     #include<stdlib.h>
-    /* Automata de pila */
-    #include "calc.h" // Incluimos funciones para la tabla de simbolos
-    #include "mfcalc.tab.h" // exportamos la declaraciones de bison
+    #include "calc.h"
+    #include "mfcalc.tab.h" 
 %}
 
 
